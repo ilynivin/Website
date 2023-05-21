@@ -138,9 +138,9 @@ params:
     title: "About Me"
     image: "img/profile.png"
     content: |-
-      I am a 15 y/o web devaloper and App devaloper . I am a tec Person who loves coding and More !
+      I am a 15 y/o web/app developer. I am a tec person who loves coding and more !
 
-      I am currently looking for collaburation with Open Source Projects . So that i can code More !
+      I am currently looking for collaborate with Open Source Projects .!
     skills:
       enable: true
       title: "Here are my Languages which I have recently Studied :"
@@ -168,7 +168,6 @@ params:
         content: |-
           My Activities 
             - I have Joined this school for 11 yrs and I am Still in that School.
-            - Still I am Studying :P
 
 
   # projects
