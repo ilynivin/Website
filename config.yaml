@@ -143,7 +143,7 @@ params:
       I am currently looking for collaborate with Open Source Projects .!
     skills:
       enable: true
-      title: "Here are my Languages which I have recently Studied :"
+      title: "Here are my Languages which i have recently Studied :"
       items:
         - "HTML"
         - "Astro.js"
@@ -167,7 +167,7 @@ params:
         date: "2012 - Now"
         content: |-
           My Activities 
-            - I have Joined this school for 11 yrs and I am Still in that School.
+            - I have Joined this school for 11 yrs and i am continuing to learn my studies ! 
 
 
   # projects
