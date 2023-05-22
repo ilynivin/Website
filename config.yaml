@@ -109,11 +109,11 @@ params:
     intro: "Hi, my name is"
     title: "Nivin."
     subtitle: "I like to build things!"
-    content: "A passionate web developer. Who Likes to contribute others!"
+    content: "A passionate web developer, who Likes to contribute for others!"
     image: img/home.jpg
     bottomImage:
       enable: true
-     #roundImage: true # Make hero image circular | default false
+      #roundImage: true # Make hero image circular | default false
     button:
       enable: false
       name: "Resume"
@@ -131,6 +131,8 @@ params:
           url: https://www.instagram.com/nivinvysakh/
         - icon: img/icons/codepen.png
           url: https://codepen.io/Nivin389
+        - icon: img/icons/iconblog.png
+          url: https://blognivins.netlify.app/
 
   # About
   about:
@@ -138,12 +140,12 @@ params:
     title: "About Me"
     image: "img/profile.png"
     content: |-
-      I am a 15 y/o web/app developer. I am a tec person who loves coding and more !
+      I am a 15 yr web and app developer. I am a tec person who loves coding and more !
 
-      I am currently looking for collaborate with Open Source Projects .!
+      I am currently looking for collaborate with others!
     skills:
       enable: true
-      title: "Here are my Languages which i have recently Studied :"
+      title: "My Skills"
       items:
         - "HTML"
         - "Astro.js"
@@ -160,14 +162,14 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "School"
+      - title: "High School"
         school:
           name: "Jyothi Nivas Public School"
           url: "http://jyothinivasaluva.com/"
         date: "2012 - Now"
         content: |-
           My Activities 
-            - I have Joined this school for 11 yrs and i am continuing to learn my studies ! 
+            - I have been in this school for 11 years.
 
 
   # projects
