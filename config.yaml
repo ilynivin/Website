@@ -150,7 +150,7 @@ params:
         - "HTML"
         - "Astro.js"
         - "HUGO"
-        - "Pyhton"
+        - "Python"
         - "C"
         - "Markdown"
 
@@ -181,7 +181,7 @@ params:
         content: I made a blog page for my site !
         image: img/projectpic/BlogProfile.png
         featured:
-          name: Demo
+          name: Vist The Blog!
           link: https://blognivins.netlify.app/
         badges:
           - "Hugo"
@@ -189,34 +189,36 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/ilynivin
-          - icon: fab fa-twitter
-            url: https://twitter.com/Nivin389
 
-      - title: Js Calculator
-        content: A web app to solve your Math!.
-        image:  img/projectpic/calk.png
+      - title: Xelyer
+        content: A Joke Bot To fill your Mood. Do You want to add this bot cool Features ? . Conribute this bot 
+        image:  img/projectpic/Xelyer.png
         featured:
-          name: Demo
-          link: https://github.com/ilynivin/Calculator
+          name: Add Me !
+          link: https://discord.com/oauth2/authorize?client_id=1111316333666254878&permissions=534723950656&scope=bot
         badges:
-          - "JS"
-          - "Web App"
+          - "Discord"
+          - "SimpleJokeBot"
+          - "Python"
         links:
           - icon: fab fa-github
-            url: https://github.com/ilynivin
+            url: https://github.com/Xelyer
 
-      - title: Js Face Cliker Game
-        content: A clean and simple game .
-        image: img/projectpic/face.png
+      - title: Ai Chat Bot 
+        content: Play with a Chat Bot Powered by Chat GPT-4. To See the demo Of this Pls Join my Discord Server to chat with it .
+        image: img/projectpic/aibot.png
         featured:
-          name: Demo
-          link: https://github.com/ilynivin/Monkey-Face-in-Js-
+          name: Test Me 
+          link: https://discord.gg/bT8jhUykVS
         badges:
-          - "JS"
-          - "Web Game"
+          - "DiscordBot"
+          - "AI"
+          - "ChatGPT"
+          - "Python"
         links:
-          - icon: fab fa-github
-            url: https://github.com/ilynivin
+          - icon: fab fa-discord
+            url: https://discord.gg/bT8jhUykVS
+
 
   #Contact
 
