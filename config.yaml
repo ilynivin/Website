@@ -43,9 +43,9 @@ Menus:
 
 params:
   title: "Nivins"
-  description: A 15 y/o Web Dev
+  description: A 15 y/o dev's Profile
   # staticPath: ""  # The path to serve the static files from
-  favicon: "img/favicon.ico"
+  favicon: "img/Icon.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -79,10 +79,10 @@ params:
   #   primaryColor:
   #   secondaryColor:
 
-  #   darkmode:
+   # darkmode:
   #     textColor:
   #     secondaryTextColor:
-  #     backgroundColor:
+  #     backgroundColor: 
   #     secondaryBackgroundColor:
   #     primaryColor:
   #     secondaryColor:
@@ -107,23 +107,21 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Nivin."
-    subtitle: "I like to build things!"
-    content: "A passionate web developer, who Likes to contribute for others!"
-    image: img/home.jpg
+    title: "Nivin Vysakh"
+    subtitle: "I like to Help Others!"
+    content: "A passionate web developer and Bot developer "
+    image: img/hero4.jpg
     bottomImage:
       enable: true
       #roundImage: true # Make hero image circular | default false
     button:
-      enable: false
-      name: "Resume"
-      url: "#"
-      download: true
-      newPage: false
+      enable: true
+      name: "Explore my Work"
+      url: "https://github.com/ilynivin"
+      download: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://github.com/ilynivin
         - icon: fab fa-twitter
           url: https://twitter.com/Nivin389
       customIcons:
@@ -170,6 +168,10 @@ params:
         content: |-
           My Activities 
             - I have been in this school for 11 years.
+            - Member of  Waste management club. Which Means that our campus will be plastic free .
+            - Taked auth of "Say No to Drugs".
+            - Participated in School Youth festival .
+
 
 
   # projects
@@ -204,6 +206,9 @@ params:
           - icon: fab fa-github
             url: https://github.com/Xelyer
 
+          - icon: fab fa-discord
+            url: https://discord.gg/bT8jhUykVS
+
       - title: Ai Chat Bot 
         content: Play with a Chat Bot Powered by Chat GPT-4. To See the demo Of this Pls Join my Discord Server to chat with it .
         image: img/projectpic/aibot.png
@@ -219,6 +224,9 @@ params:
           - icon: fab fa-discord
             url: https://discord.gg/bT8jhUykVS
 
+          - icon: fab fa-github
+            url: https://github.com/ilynivin/DiscordAi
+
 
   #Contact
 
@@ -233,5 +241,5 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "All rights reserved"
+    copyright: "All rights reserved to Nivins"
     pageNotFound: "Page not found"
