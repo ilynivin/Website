@@ -1,0 +1,9 @@
+{
+  "name": "github-actions-bot",
+  "version": "1.0.0",
+  "description": "GitHub Actions Bot",
+  "scripts": {},
+  "dependencies": {
+    "github": "^16.2.0"
+  }
+}
