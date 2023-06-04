@@ -1,0 +1,21 @@
+name: Bot Workflow
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  bot-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run bot script
+        run: node bot.js
