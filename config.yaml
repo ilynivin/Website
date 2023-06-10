@@ -100,7 +100,7 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: true
+      disableAchievements: false
       disableContact: false
 
   # Hero
@@ -169,7 +169,7 @@ params:
           My Activities 
             - I have been in this school for 11 years.
             - Member of  Waste management club. Which Means that our campus will be plastic free .
-            - Taked auth of "Say No to Drugs".
+            - Took Oath of "Say No to Drugs".
             - Participated in School Youth festival .
 
 
@@ -227,8 +227,24 @@ params:
           - icon: fab fa-github
             url: https://github.com/ilynivin/DiscordAi
 
+  achievements:
+    enable: true
+    #title: "title"
+    items:
+      - title: Certified Game Developer
+        content: I Created and hosted a Game via Multiplayer !.
+        url: https://www.whitehatjr.com/
+
+
+
 
   #Contact
+  contact:
+    enable: true
+    # title: "Custom Name"
+    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    email: nivinvysakh2020@outlook.com
+    btnName: Mail me
 
 
   footer:
@@ -241,5 +257,6 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "All rights reserved to Nivins"
-    pageNotFound: "Page not found"
+    copyright: "All rights reserved to Nivin Vysakh"
+    pageNotFound: "Ops! What Did you do."
+    
